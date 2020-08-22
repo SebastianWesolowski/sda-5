@@ -1,6 +1,7 @@
-# Wymagane:
+# Wymagania:
 
 Node +10:
+Link do instalacji node:
 https://nodejs.org/en/download/
 
 Sprawdzenie poprawności instalacji:
