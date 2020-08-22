@@ -32,7 +32,7 @@ npm install
 po zainstalowaniu paczek wpisujemy komendę uruchamiająca skrypt "test" z pliku package.json:
 
 ```
-npm  run test
+npm run test
 ```
 
 ## Oryginalny link do instalacji:
