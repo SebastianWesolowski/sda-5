@@ -33,3 +33,11 @@ po zainstalowaniu paczek wpisujemy komendę uruchamiająca skrypt "test" z pliku
 ```
 npm  run test
 ```
+
+## Oryginalny link do instalacji:
+
+https://docs.cypress.io/guides/getting-started/installing-cypress.html
+
+## Dokumentacja:
+
+https://docs.cypress.io/guides/overview/why-cypress.html
