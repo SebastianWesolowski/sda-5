@@ -7,5 +7,7 @@ describe("Zadanie 1", () => {
     cy.get("[type='date']").type("2020-12-31");
     cy.get("#salary-true").check();
     cy.get("input[type='submit']").click();
+    cy.get(".data>p").should("have.length", 5);
+    cy.get(".data p").should("have.length", 5);
   });
 });
