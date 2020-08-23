@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "author": "",
+  "license": "ISC",
   "scripts": {
     "test": "npx cypress open"
   },
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "cypress": "^5.0.0"
   }
